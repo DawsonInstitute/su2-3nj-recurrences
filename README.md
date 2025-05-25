@@ -9,8 +9,6 @@ Building on the universal closed-form hypergeometric representation of SU(2) 3nj
 ## Repository Structure
 
 - `index.html` and `index.md`: Web presentation of the research paper
-- `data/`: Contains data files related to the research
-- `scripts/`: Contains scripts for calculations and visualizations
 - `Closed-Form Finite Recurrences for SU(2) 3nj Symbols.tex`: Original LaTeX source
 - `Closed-Form Finite Recurrences for SU(2) 3nj Symbols.pdf`: PDF version of the paper
 
