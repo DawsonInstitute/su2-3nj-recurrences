@@ -1,18 +1,18 @@
 ---
 layout: default
 title: "Closed-Form Finite Recurrences for SU(2) 3nj Symbols"
-author: Arcticoder
+author: Dawson Institute
 date: May 25, 2025
 ---
 
 # Closed-Form Finite Recurrences for SU(2) 3nj Symbols
 
-*Arcticoder*  
+*Dawson Institute*  
 *May 25, 2025*
 
 ## Abstract
 
-Building on the universal closed-form hypergeometric representation of SU(2) 3nj symbols [[1]](https://arcticoder.github.io/su2-3nj-uniform-closed-form/), we present a finite set of algebraic three-term recurrence relations in the spin labels $$j_k$$, together with minimal boundary data, which uniquely determine any SU(2) $$3nj$$ recoupling coefficient. These recurrences allow computation of all $$3nj$$ symbols in closed form without nested sums of $$6j$$ symbols.
+Building on the universal closed-form hypergeometric representation of SU(2) 3nj symbols [[1]](https://dawsoninstitute.github.io/su2-3nj-uniform-closed-form/), we present a finite set of algebraic three-term recurrence relations in the spin labels $$j_k$$, together with minimal boundary data, which uniquely determine any SU(2) $$3nj$$ recoupling coefficient. These recurrences allow computation of all $$3nj$$ symbols in closed form without nested sums of $$6j$$ symbols.
 
 ## General Recurrence System
 
@@ -61,7 +61,7 @@ are given by the SU(2) $$3(n-1)j$$ symbol on the tree with edge $$k$$ removed, b
 
 ## References
 
-1. <a name="arcticoder2025"></a> Arcticoder,
+1. <a name="dawsoninstitute2025"></a> Dawson Institute,
    *Universal Closed-Form Hypergeometric Representation of SU(2) 3nj Symbols*,
-   [https://arcticoder.github.io/su2-3nj-uniform-closed-form/](https://arcticoder.github.io/su2-3nj-uniform-closed-form/),
+   [https://dawsoninstitute.github.io/su2-3nj-uniform-closed-form/](https://dawsoninstitute.github.io/su2-3nj-uniform-closed-form/),
    2025.

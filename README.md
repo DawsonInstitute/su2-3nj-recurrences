@@ -14,11 +14,11 @@ Building on the closed-form hypergeometric representation of SU(2) 3nj symbols, 
 
 ## Website
 
-The published version of this work can be viewed at: [https://arcticoder.github.io/su2-3nj-recurrences/](https://arcticoder.github.io/su2-3nj-recurrences/)
+The published version of this work can be viewed at: [https://dawsoninstitute.github.io/su2-3nj-recurrences/](https://dawsoninstitute.github.io/su2-3nj-recurrences/)
 
 ## Related Work
 
-- [Universal Closed-Form Hypergeometric Representation of SU(2) 3nj Symbols](https://arcticoder.github.io/su2-3nj-uniform-closed-form/)
+- [Universal Closed-Form Hypergeometric Representation of SU(2) 3nj Symbols](https://dawsoninstitute.github.io/su2-3nj-uniform-closed-form/)
 
 ## Scope / Validation & Limitations
 

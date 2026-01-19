@@ -4,7 +4,7 @@ plugins:
 - jekyll-sitemap
 title: "Closed-Form Finite Recurrences for SU(2) 3nj Symbols"
 description: "Algebraic three-term recurrence relations for SU(2) 3nj symbols"
-author: "Arcticoder"
+author: "Dawson Institute"
 
 # Markdown settings
 markdown: kramdown
@@ -15,7 +15,7 @@ kramdown:
 # GitHub Pages settings
 github:
   is_project_page: true
-  repository_url: https://github.com/arcticoder/su2-3nj-recurrences
+  repository_url: https://github.com/DawsonInstitute/su2-3nj-recurrences
 
 # Defaults
 defaults:
